@@ -75,7 +75,7 @@ cd cricket-score-prediction
  streamlit run app.py
 
 ## 📷 Streamlit Interface Preview
- ![Streamlit Screenshot](screenshot.png)
+ ![Streamlit Screenshot](Screenshot.png)
 
 
 ## 👤 Authors
