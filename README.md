@@ -2,7 +2,7 @@
 
 This project predicts the **final team score** in a T20/ODI match using current match stats such as boundaries, overs, and run rate.
 
-> ✅ Built with Streamlit | ✅ Trained with 4 ML models | ✅ CLI-verified logic
+> ✅ Built with Streamlit | ✅ Trained with 4 ML models | ✅ Validated using command-line inputs (CLI testing)
 
 ---
 
@@ -33,17 +33,18 @@ This project predicts the **final team score** in a T20/ODI match using current 
 
 ---
 
-## 📓 Jupyter Notebook (Colab)
+## 📓 Google Colab Notebook
 
-The original development, exploratory data analysis, visualizations, and model experiments were done in a Jupyter Notebook (Google Colab).
+The original development, data exploration, and model building were done in Google Colab.
 
-📎 [View Colab Notebook](notebooks/cricket_score_prediction.ipynb)
+▶️ [Open in Google Colab](https://colab.research.google.com/github/kasinadhan-in/cricket-score-prediction/blob/main/notebooks/cricket_score_prediction.ipynb)
 
-This notebook includes:
-- Dataset preprocessing
-- Visualizations (score trends, distribution, correlation)
-- Model training (Linear, Decision Tree, Random Forest, KNN)
-- Evaluation metrics and model compariso
+This includes:
+- Data cleaning and preprocessing
+- Boundary/Overs/Run rate analysis
+- Model experiments (LR, DT, RF, KNN)
+- Visualizations & evaluation metrics
+
 
 
 ## 🧠 Model Evaluation Summary
