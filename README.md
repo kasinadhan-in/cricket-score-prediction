@@ -62,7 +62,11 @@ This includes:
 
 ### 1. Clone the repository
 
+<<<<<<< HEAD
  ``bash
+=======
+  ``bash
+>>>>>>> 1fa74310a384eba17597917ba48d6af91a226096
 git clone https://github.com/kasinadhan-in/cricket-score-prediction.git
 cd cricket-score-prediction
 
@@ -74,9 +78,14 @@ cd cricket-score-prediction
 ## 3.Run the app
  streamlit run app.py
 
+<<<<<<< HEAD
 ## 📷 Streamlit Interface Preview
  ![Streamlit Screenshot](screenshot.png)
 
+=======
+## 📸 Screenshots
+ Add screenshots of the app UI here for better showcase!
+>>>>>>> 1fa74310a384eba17597917ba48d6af91a226096
 
 ## 👤 Authors
   - **Kasinadhan S**  
