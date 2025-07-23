@@ -33,6 +33,19 @@ This project predicts the **final team score** in a T20/ODI match using current 
 
 ---
 
+## 📓 Jupyter Notebook (Colab)
+
+The original development, exploratory data analysis, visualizations, and model experiments were done in a Jupyter Notebook (Google Colab).
+
+📎 [View Colab Notebook](notebooks/cricket_score_prediction.ipynb)
+
+This notebook includes:
+- Dataset preprocessing
+- Visualizations (score trends, distribution, correlation)
+- Model training (Linear, Decision Tree, Random Forest, KNN)
+- Evaluation metrics and model compariso
+
+
 ## 🧠 Model Evaluation Summary
 
 | Model              | MAE    | MSE     | R² Score |
