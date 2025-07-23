@@ -62,6 +62,25 @@ This includes:
 
 ### 1. Clone the repository
 
-```bash
+  ``bash
 git clone https://github.com/kasinadhan-in/cricket-score-prediction.git
 cd cricket-score-prediction
+
+## 2. Install dependencies
+  pip install -r requirements.txt
+  or
+  pip install streamlit pandas scikit-learn matplotlib
+
+## 3.Run the app
+ streamlit run app.py
+
+## 📸 Screenshots
+ Add screenshots of the app UI here for better showcase!
+
+## 👤 Authors
+  - **Kasinadhan S**  
+  [GitHub Profile](https://github.com/kasinadhan-in)
+- **Adithya Krishna**  
+  [GitHub Profile](https://github.com/user-name)
+- **Bharadwaj Kesav**  
+  [GitHub Profile](https://github.com/user-name)
