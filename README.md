@@ -68,7 +68,7 @@ cd cricket-score-prediction
 ```
 ## 2. Install dependencies
   pip install -r requirements.txt
-  or
+-  or
   pip install streamlit pandas scikit-learn matplotlib
 
 ## 3.Run the app
